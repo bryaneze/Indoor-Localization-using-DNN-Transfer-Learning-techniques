@@ -1,7 +1,7 @@
 # LnF_FYP2122S1_Bryan_Eng
 
 
-[Project Description]
+## Project description
 - Exploring and implementing Indoor localization using DNN techniques 
 
 
@@ -23,6 +23,3 @@
     └── README.md
 ```
 
-
-## Contributors
-* **FYP** - @FSCraze
