@@ -6,10 +6,10 @@
 
 
 [National Gallery]
-- Using collected data to experiment on deep learning techniques to improve the accuracy of the indoor localization 
+- Using collected data to experiment on DNN techniques to improve the accuracy of the indoor localization 
 
 [UJIndoor dataset]
-- Using UJIndoor dataset to test on pre-processing techniques 
+- Using UJIndoor dataset to test on pre-processing & DNN techniques 
 
 ##  Project directory structure 
 ```
