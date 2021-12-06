@@ -23,3 +23,14 @@
     └── README.md
 ```
 
+## Techniques explored/experimented: 
+- Preprocessing
+    - Recursive Feature Elimination (RFE)
+        - implementation of RFE on National Gallery dataset in `National Gallery/Datasets/RFE/` 
+    - Threshold filtering 
+        - implementation of Threshold filtering on National Gallery dataset in `National Gallery/Datasets/filter/` 
+
+- DNN (WIP)
+    - DNN implementation codes are defined in `National Gallery/DNN Implementation/` 
+    - Tested with both unprocessed and processed datasets 
+    
