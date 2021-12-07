@@ -41,8 +41,9 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
 - DNN model tested: 
 -  Input layer with N numbers of AP RSSI values 
 -  3 hidden layers `⌊N⌋ (to the nearest 100) - 100` with ReLU activation function 
--  1 output layer with 2 neurons that represents longitude and latitude 
+-  output layer with 2 neurons that represents longitude and latitude 
 
 ![image](https://user-images.githubusercontent.com/26837821/144977985-59b2de77-9945-43d8-86fe-1527ece797fa.png)
 
 
+## Transfer Learning (TODO) 
