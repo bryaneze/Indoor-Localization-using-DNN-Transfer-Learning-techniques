@@ -35,7 +35,7 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
     - implementation of Threshold filtering on National Gallery dataset in `National Gallery/Datasets/filter/` 
     - remove APs that has no values more than threshold (-70dBM) across all runs/routes collected 
 
-## DNN (WIP)
+### DNN (WIP)
 - DNN implementation codes are defined in `National Gallery/DNN Implementation/` & `UJI/DNN Implementation`
 - Tested with both unprocessed and processed datasets 
 - DNN model tested: 
