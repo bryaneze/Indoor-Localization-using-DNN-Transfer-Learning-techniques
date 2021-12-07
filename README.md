@@ -16,10 +16,10 @@
     .
     ├── National Gallery 
     │   ├── Datasets   <- csv datasets collected & used 
-    |   ├── DNN Implementation  <- Deep learning implementation codes 
+    |   ├── DNN Implementation  <- implementation codes 
     ├── UJI   
     |   ├── Datasets <- csv datasets used 
-    |   ├── DNN Implementations <- Deep learning implementation codes 
+    |   ├── DNN Implementations <- implementation codes 
     └── README.md
 ```
 
