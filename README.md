@@ -49,4 +49,4 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
 ## TODO: 
 - Transfer Learning implementation
 - Add results for different implementations 
-- Setup process & Flow of function sections 
+- `Setup process` & `Flow of function` sections 
