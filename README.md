@@ -46,4 +46,7 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
 ![image](https://user-images.githubusercontent.com/26837821/144977985-59b2de77-9945-43d8-86fe-1527ece797fa.png)
 
 
-## Transfer Learning (TODO) 
+## TODO: 
+- Transfer Learning implementation
+- Add results for different implementations 
+- Setup process & Flow of function sections 
