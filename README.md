@@ -8,6 +8,9 @@
 [National Gallery]
 - Using collected data to experiment on DNN techniques to improve the accuracy of the indoor localization 
 
+[SCALE]
+- Experimenting DNN techniques on collected BLE RSSI values for indoor localization 
+
 [UJIndoor dataset]
 - Using UJIndoor dataset to test on pre-processing & DNN techniques 
 
@@ -17,6 +20,13 @@
     ├── National Gallery 
     │   ├── Datasets   <- csv datasets collected & used 
     |   ├── DNN Implementation  <- implementation codes 
+    |
+    ├── SCALE 
+        ├── Datasets <- csv datasets collected & used 
+        ├── Reference images <- images for beacon taggings 
+        ├── DNN Implementation <- implementation codes 
+    |
+    |
     ├── UJI   
     |   ├── Datasets <- csv datasets used 
     |   ├── DNN Implementations <- implementation codes 
