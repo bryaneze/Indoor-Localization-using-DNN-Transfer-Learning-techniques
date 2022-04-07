@@ -22,10 +22,9 @@
     |   ├── DNN Implementation  <- implementation codes 
     |
     ├── SCALE 
-        ├── Datasets <- csv datasets collected & used 
-        ├── Reference images <- images for beacon taggings 
-        ├── DNN Implementation <- implementation codes 
-    |
+    |   ├── Datasets <- csv datasets collected & used 
+    |   ├── Reference images <- images for beacon taggings 
+    |   ├── DNN Implementation <- implementation codes 
     |
     ├── UJI   
     |   ├── Datasets <- csv datasets used 
