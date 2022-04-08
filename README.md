@@ -1,8 +1,7 @@
-# LnF_FYP2122S1_Bryan_Eng
 
 
 ## Project description
-- Exploring and implementing Indoor localization using DNN techniques 
+- Exploring and implementing Indoor localization with Wi-Fi & BLE RSSI using Deep Neural Networks (DNN) and Transfer Learning 
 
 
 [National Gallery]
