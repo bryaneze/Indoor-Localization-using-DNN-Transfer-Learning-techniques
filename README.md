@@ -45,7 +45,7 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
     - implementation of Threshold filtering on National Gallery dataset in `National Gallery/Datasets/filter/` 
     - remove APs that has no values more than threshold (-70dBM) across all runs/routes collected 
 
-### DNN (WIP)
+### DNN 
 - DNN implementation codes are defined in `National Gallery/DNN Implementation/` & `UJI/DNN Implementation`
 - Tested with both unprocessed and processed datasets 
 - DNN model tested: 
@@ -56,7 +56,8 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
 ![image](https://user-images.githubusercontent.com/26837821/144977985-59b2de77-9945-43d8-86fe-1527ece797fa.png)
 
 
-## TODO: 
-- Transfer Learning implementation
-- Add results for different implementations 
-- `Setup process` & `Flow of function` sections 
+### Transfer learning 
+- Transfer learning implementation codes are in `National Gallery/Transfer learning implementations` & `UJI/Transfer learning implementations`
+- Transfer learning techniques used: 
+- Tuning 
+- Feature selection 
