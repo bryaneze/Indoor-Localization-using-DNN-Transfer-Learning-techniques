@@ -19,17 +19,21 @@
     .
     ├── National Gallery 
     │   ├── Datasets   <- csv datasets collected & used 
-    |   ├── DNN Implementation  <- implementation codes 
+    |   ├── DNN Implementation  <- implementation codes for DNN
+    |   └── SingTour -NG  <- Codes for integration with SingTour app 
+    |           ├── DNN <- DNN model for SingTour   
+    |           └── TF <- Transfer Learning model for SingTour
     |
     ├── SCALE 
     |   ├── Datasets <- csv datasets collected & used 
     |   ├── Reference images <- images for beacon taggings 
-    |   ├── DNN Implementation <- implementation codes 
+    |   └── DNN Implementation <- implementation codes 
     |
     ├── UJI   
     |   ├── Datasets <- csv datasets used 
-    |   ├── DNN Implementations <- implementation codes 
-    └── README.md
+    |   ├── DNN Implementations <- implementation codes for DNN
+    |   └── Transfer learning implementations <- implementation codes for TF
+    └── README.md <-- this file
 ```
 
 ## Techniques explored/experimented: 
@@ -56,7 +60,11 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
 
 
 ### Transfer learning 
-- Transfer learning implementation codes are in `National Gallery/Transfer learning implementations` & `UJI/Transfer learning implementations`
+- Transfer learning implementation codes are in `National Gallery/SingTour -NG/TF` & `UJI/Transfer learning implementations`
 - Transfer learning techniques used: 
 - Tuning 
 - Feature selection 
+
+
+### References used: 
+- Udacity DNN course (Lessons 1 - 5)
