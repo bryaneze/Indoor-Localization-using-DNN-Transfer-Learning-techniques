@@ -50,7 +50,7 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
     - remove APs that has no values more than threshold (-70dBM) across all runs/routes collected 
 
 - Conversion of GPS Coordinates 
-    - Latitude & Longitude for National Gallery and SCALE datasets were converted from EPSG4326 (default GPS) to EPSG3414 (Singapore meter based projected coordinates). 
+    - Latitude & Longitude for National Gallery and SCALE datasets were converted from EPSG4326 (default GPS) to EPSG3414 (Singapore meter based projected coordinates). Codes for conversion of GPS can be found in `SCALE/DNN Implementation/EPSGconveter.py`
 
 ### DNN 
 - DNN implementation codes are defined in `National Gallery/DNN Implementation/` & `UJI/DNN Implementation`
