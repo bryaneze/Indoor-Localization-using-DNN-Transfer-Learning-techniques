@@ -6,13 +6,13 @@
 - Exploring and implementing Indoor localization with Wi-Fi & BLE RSSI using Deep Neural Networks (DNN) and Transfer Learning (TL)
 
 
-[National Gallery]
+[National Gallery](https://github.com/FSCraze/Indoor-Localization-using-DNN-Transfer-Learning-techniques/tree/main/National%20Gallery)
 - Using collected data to experiment on DNN techniques to improve the accuracy of the indoor localization 
 
-[SCALE]
+[SCALE](https://github.com/FSCraze/Indoor-Localization-using-DNN-Transfer-Learning-techniques/tree/main/SCALE)
 - Experimenting DNN techniques on collected BLE RSSI values for indoor localization 
 
-[UJIndoor dataset]
+[UJIndoor dataset](https://github.com/FSCraze/Indoor-Localization-using-DNN-Transfer-Learning-techniques/tree/main/UJI)
 - Using UJIndoor dataset to test on pre-processing & DNN/TL techniques 
 
 ##  Project directory structure 
