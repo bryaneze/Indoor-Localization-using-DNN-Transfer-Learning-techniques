@@ -1,4 +1,6 @@
-
+## Installation guide 
+- Jupyter notebooks can be directly run from Google Colab 
+- Place datasets into a folder on Google Drive and mount it on Colab when running the jupyter notebook files to access it 
 
 ## Project description
 - Exploring and implementing Indoor localization with Wi-Fi & BLE RSSI using Deep Neural Networks (DNN) and Transfer Learning (TL)
