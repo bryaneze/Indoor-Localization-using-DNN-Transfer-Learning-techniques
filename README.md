@@ -1,4 +1,4 @@
-## Installation guide 
+## Installation/set-up
 - Jupyter notebooks can be directly run from Google Colab 
 - Place datasets into a folder on Google Drive and mount it on Colab when running the jupyter notebook files to access it 
 
@@ -70,6 +70,6 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
     - Feature selection 
 
 
-### References used: 
+## References used: 
 - [Udacity Pytorch course](https://www.udacity.com/course/deep-learning-pytorch--ud188) 
 - References in report (SCSE21-0138)
