@@ -1,19 +1,27 @@
+
+## Project description
+Exploring and implementing Indoor localization with Wi-Fi & BLE RSSI using Deep Neural Networks (DNN) and Transfer Learning (TL). 3 locations were considered for this project which are the subdirectories in the root directory. For National Gallery & SCALE, the dataset was collected using the data collection app and preprocessed. 
+
+DNN/TF models were trained on Google Colab using datasets and Jupyter Notebook codes in the subdirectories. Packages used are listed in the section below, and in `requirements.txt`. 
+
+
+
 ## Installation/set-up
 - Jupyter notebooks can be directly run from Google Colab 
 - Place datasets into a folder on Google Drive and mount it on Colab when running the jupyter notebook files to access it 
 
-## Project description
-- Exploring and implementing Indoor localization with Wi-Fi & BLE RSSI using Deep Neural Networks (DNN) and Transfer Learning (TL)
+### Packages used: (shown in requirements.txt)
+- torch 1.10.0 
+- pandas 1.3.5 
+- torchvision 0.11.1 
+- torch 1.10.1 
+- numpy 1.21.5 
+- pyproj 3.3.0 
 
 
-[National Gallery](https://github.com/FSCraze/Indoor-Localization-using-DNN-Transfer-Learning-techniques/tree/main/National%20Gallery)
-- Using collected data to experiment on DNN techniques to improve the accuracy of the indoor localization 
 
-[SCALE](https://github.com/FSCraze/Indoor-Localization-using-DNN-Transfer-Learning-techniques/tree/main/SCALE)
-- Experimenting DNN techniques on collected BLE RSSI values for indoor localization 
 
-[UJIndoor dataset](https://github.com/FSCraze/Indoor-Localization-using-DNN-Transfer-Learning-techniques/tree/main/UJI)
-- Using UJIndoor dataset to test on pre-processing & DNN/TL techniques 
+
 
 ##  Project directory structure 
 ```
@@ -34,8 +42,21 @@
     |   ├── Datasets <- csv datasets used 
     |   ├── DNN Implementations <- implementation codes for DNN
     |   └── Transfer learning implementations <- implementation codes for TF
+    |
+    ├── requirements.txt <-- packages and versions 
     └── README.md <-- this file
 ```
+
+[National Gallery](https://github.com/NTU-SCALE-Lost-And-Found/LnF_FYP2122S1_Bryan-Eng-Ze-En/tree/main/National%20Gallery)
+- Using collected data to experiment on DNN techniques to improve the accuracy of the indoor localization 
+
+[SCALE](https://github.com/NTU-SCALE-Lost-And-Found/LnF_FYP2122S1_Bryan-Eng-Ze-En/tree/main/SCALE)
+- Experimenting DNN techniques on collected BLE RSSI values for indoor localization 
+
+[UJIndoor dataset](https://github.com/NTU-SCALE-Lost-And-Found/LnF_FYP2122S1_Bryan-Eng-Ze-En/tree/main/UJI)
+- Using UJIndoor dataset to test on pre-processing & DNN/TL techniques 
+
+
 
 ## Techniques explored/experimented: 
 ### Preprocessing
