@@ -71,5 +71,5 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
 
 
 ## References used: 
-- [Udacity Pytorch course](https://www.udacity.com/course/deep-learning-pytorch--ud188) 
+- [Udacity PyTorch course](https://www.udacity.com/course/deep-learning-pytorch--ud188) 
 - References in report (SCSE21-0138)
