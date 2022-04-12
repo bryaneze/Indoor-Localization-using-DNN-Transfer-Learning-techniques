@@ -1,4 +1,4 @@
-# DNN Implementation code (WIP) 
+# DNN Implementation code 
 
 ## Loss graphs 
 - loss graphs for different optimizers & datasets 
@@ -10,10 +10,11 @@
   - filter
   - RFE 
 
+## Python files 
+- Legacy/old Python codes for generating the above 
+
 ## NG DNN.ipynb 
-- DNN model that takes preprocessed datasets as input and generate lat/lon coordinates as output 
-- Saves model state every 5 epochs 
+- DNN model that takes preprocessed datasets as input and generate lat/lon coordinates as output (most updated)
 
-
-## python files 
-- to be added 
+## plot.png 
+- Distance error plot for National Gallery
