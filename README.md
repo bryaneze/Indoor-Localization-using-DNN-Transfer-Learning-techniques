@@ -90,7 +90,11 @@ After doing data collection at National Gallery, we have over 800 unique APs. Th
     - Tuning 
     - Feature selection 
 
+## Report link: 
+- Eng,  B. Z. E. (2022). Indoor localization and navigation via Wi-Fi & bluetooth fingerprinting. Final Year Project (FYP), Nanyang Technological University, Singapore. https://hdl.handle.net/10356/156699
+
 
 ## References used: 
 - [Udacity PyTorch course](https://www.udacity.com/course/deep-learning-pytorch--ud188) 
-- References in report (SCSE21-0138)
+
+
